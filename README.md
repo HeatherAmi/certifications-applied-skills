@@ -1,5 +1,18 @@
 # Certifications: Microsoft Applied Skills
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square)
+![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=flat-square)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258AAF?style=flat-square&logo=microsoft&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Applied Skills](https://img.shields.io/badge/Type-Applied_Skills-0078D4?style=flat-square)
+[![YouTube](https://img.shields.io/badge/Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HeatherAmiDigital)
+
+</div>
+
+
 Walkthroughs and practice scenarios for **Microsoft Applied Skills** assessments related to Power Platform and the wider Microsoft cloud.
 
 Applied Skills are short, scenario-based credentials that verify a specific skill. They are practical, focused, and great for showcasing capability without committing to a full certification path.
